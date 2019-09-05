@@ -1,5 +1,6 @@
- NOMBRE:___________javier navia laime __________________________
- TEMA:______________Modulo I (arquitectura de software)__________________________
+ NOMBRE: javier navia laime
+ 
+ TEMA:Modulo I (arquitectura de software)
 
 
 FECHA:04/09/2019
