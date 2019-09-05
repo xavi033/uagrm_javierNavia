@@ -11,11 +11,13 @@ QUE HICE HASTA AHORA
 	implemente programacion paralelo 
 
 QUE ARE HOY
-	-subir documentos al repositorio
+
+	subir documentos al repositorio
 	subir proyecto a githup
 	crearme el archivo README.md
 	implemente programacion paralelo 
 
 COMO LO HARE
+
 	creandome en la pagina githup
 	usar netbeans para la programacion paralelo guiandome  https://vike.io/es/545148
